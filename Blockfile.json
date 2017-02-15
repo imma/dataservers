@@ -2,6 +2,8 @@
   "require": [
     "redis",
     "postgresql",
-    "kafka"
+    "kafka",
+    "syslog-ng",
+    "elasticsearch"
   ]
 }
