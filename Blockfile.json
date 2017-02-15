@@ -4,6 +4,8 @@
     "postgresql",
     "kafka",
     "syslog-ng",
-    "elasticsearch"
+    "elasticsearch",
+    "consul",
+    "vault"
   ]
 }
