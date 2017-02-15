@@ -6,6 +6,7 @@
     "syslog-ng",
     "elasticsearch",
     "consul",
-    "vault"
+    "vault",
+    "etcd"
   ]
 }
