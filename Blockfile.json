@@ -1,0 +1,7 @@
+{
+  "require": [
+    "redis",
+    "postgresql",
+    "kafka"
+  ]
+}
